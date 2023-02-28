@@ -1,0 +1,8 @@
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\bin\Debug\ROSELL_methodcalling.exe.config
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\bin\Debug\ROSELL_methodcalling.exe
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\bin\Debug\ROSELL_methodcalling.pdb
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\obj\Debug\ROSELL_methodcalling.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\obj\Debug\ROSELL_methodcalling.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\obj\Debug\ROSELL_methodcalling.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\obj\Debug\ROSELL_methodcalling.exe
+C:\Users\johnr\source\repos\ROSELL_methodcalling\ROSELL_methodcalling\obj\Debug\ROSELL_methodcalling.pdb
